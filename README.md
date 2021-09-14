@@ -1,3 +1,6 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/OsvaldoGDelRio/php-token/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/OsvaldoGDelRio/php-token/?branch=main)
+[![Build Status](https://scrutinizer-ci.com/g/OsvaldoGDelRio/php-token/badges/build.png?b=main)](https://scrutinizer-ci.com/g/OsvaldoGDelRio/php-token/build-status/main)
+[![Code Intelligence Status](https://scrutinizer-ci.com/g/OsvaldoGDelRio/php-token/badges/code-intelligence.svg?b=main)](https://scrutinizer-ci.com/code-intelligence)
 # php-token
 Solo otra clase para generar tokens en PHP para prevenir Cross-Site Request Forgery en formularios.
 
