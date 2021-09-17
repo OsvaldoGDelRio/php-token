@@ -1,11 +1,12 @@
 <?php
 declare(strict_types=1);
 namespace test;
+
 use \PHPUnit\Framework\TestCase;
 use src\token\CrearToken;
 use src\token\RevisarToken;
 
-define('NOMBRE_SESION_TOKEN','token');
+define('NOMBRE_SESION_TOKEN', 'token');
 
 class TokenTest extends TestCase
 {

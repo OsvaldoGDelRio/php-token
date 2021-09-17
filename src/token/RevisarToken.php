@@ -1,5 +1,6 @@
 <?php
 namespace src\token;
+
 use const NOMBRE_SESION_TOKEN;
 
 class RevisarToken

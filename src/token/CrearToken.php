@@ -1,15 +1,16 @@
 <?php
 namespace src\token;
+
 use const NOMBRE_SESION_TOKEN;
 
 class CrearToken
 {
-	public function obtener(): string
-	{
+    public function obtener(): string
+    {
         $this->borrarToken();
         
         return $this->crearToken();
-	}
+    }
 
     private function borrarToken(): void
     {
