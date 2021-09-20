@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace test;
+namespace tests;
 
 use \PHPUnit\Framework\TestCase;
 use src\token\CrearToken;
